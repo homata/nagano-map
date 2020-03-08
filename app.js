@@ -6,7 +6,7 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/mapbox/streets-v11',
   container: "map",
   center: [138.188705, 36.643083],
-  zoom: 11
+  zoom: 14
 });
 
 // Map Data Load
